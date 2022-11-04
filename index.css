@@ -8,8 +8,7 @@ body{
     background-color: #181a1b;
 }
 main{
-    width: 95%;
-    max-width: 300px;
+    width: min(95%,300px);
     position: absolute;
     top: 50%;
     left: 50%;
